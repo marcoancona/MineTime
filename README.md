@@ -1,9 +1,9 @@
 # MineTime
 MineTime is a modern, intuitive and smart calendar application.
-Connect all your calendar services and start optimizing your time.
+Connect all your calendar services and start optimizing your time. For more information about MineTime visit [minetime.ai](https://minetime.ai).
 
 ### Support
-While we can not provide individual support at the moment, you can see this repository as a public hub to collect feedbacks, bug reports and feature requests. For more information about MineTime vitit [minetime.ai](https://minetime.ai).
+While we can not provide individual support at the moment, you can see this repository as a public hub to collect feedbacks, bug reports and feature requests. 
 
 Please refer to the [issue page](https://github.com/marcoancona/MineTime/issues) and feel free to open a ticket.
 
