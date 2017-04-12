@@ -1,4 +1,4 @@
-# MineTime
+# MineTime - Support Repo
 MineTime is a modern, intuitive and smart calendar application.
 Connect all your calendar services and start optimizing your time. For more information about MineTime visit [minetime.ai](https://minetime.ai).
 
