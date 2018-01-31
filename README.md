@@ -22,8 +22,7 @@ Please refer to the [issue page](https://github.com/marcoancona/MineTime/issues)
 
 #### Keep all your calendars in one place
 
-MineTime works natively with Google, Outlook.com and Microsoft Exchange: this means you can add your calendar accounts directly into MineTime.
-Soon we will add support for iCloud and other CalDAV accounts.
+MineTime connects natively with Google, Outlook.com, Microsoft Exchange, iCloud and any CalDAV calendar: this means you can add your calendar accounts directly into MineTime.
 
 #### Time Insights
 
