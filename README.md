@@ -1,6 +1,17 @@
-# MineTime - Support Repo
+<div align="center">
+  <img src="https://www.minetime.ai/static/icon/icon.ico" width="128px">
+  <h1>MineTime (Release repo)</h1>
+  <p>
+    <a href="https://github.com/marcoancona/MineTime/releases"><img src="https://img.shields.io/github/release/marcoancona/MineTime.svg?style=flat" alt="Version"></a>
+    <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg?style=flat" alt="Platform">
+  </p>
+</div>
+
 MineTime is a modern, intuitive and smart calendar application.
 Connect all your calendar services and start optimizing your time. For more information about MineTime visit [minetime.ai](https://minetime.ai).
+
+![Image of MineTime](https://www.minetime.ai/static/img/screen.png)
+
 
 ### Support
 While we can not provide individual support at the moment, you can see this repository as a public hub to collect feedbacks, bug reports and feature requests. 
