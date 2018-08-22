@@ -17,9 +17,9 @@ MineTime store your account passwords in the local keychain. On Linux, this serv
 
 Depending on your distribution, you will need to run the following command:
 
-- Debian/Ubuntu: sudo apt-get install libsecret-1-dev
-- Red Hat-based: sudo yum install libsecret-devel
-- Arch Linux: sudo pacman -S libsecret
+- Debian/Ubuntu: `sudo apt-get install libsecret-1-dev`
+- Red Hat-based: `sudo yum install libsecret-devel`
+- Arch Linux: `sudo pacman -S libsecret`
 If you find a distribution that needs additional dependencies, please contact us.
 
 ### Support
