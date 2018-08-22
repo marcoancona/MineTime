@@ -12,6 +12,15 @@ Connect all your calendar services and start optimizing your time. For more info
 
 ![Image of MineTime](https://www.minetime.ai/static/img/screen.png)
 
+### Linux dependencies
+MineTime store your account passwords in the local keychain. On Linux, this service is provided by `libsecret` so you may need to install it before running MineTime.
+
+Depending on your distribution, you will need to run the following command:
+
+- Debian/Ubuntu: sudo apt-get install libsecret-1-dev
+- Red Hat-based: sudo yum install libsecret-devel
+- Arch Linux: sudo pacman -S libsecret
+If you find a distribution that needs additional dependencies, please contact us.
 
 ### Support
 While we can not provide individual support at the moment, you can see this repository as a public hub to collect feedbacks, bug reports and feature requests. 
