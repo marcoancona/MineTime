@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.minetime.ai/static/icon/icon.ico" width="128px">
+  <img src="https://minetime.ai/assets/icon/favicon.png" width="128px">
   <h1>MineTime (Release repo)</h1>
   <p>
     <a href="https://github.com/marcoancona/MineTime/releases"><img src="https://img.shields.io/github/release/marcoancona/MineTime.svg?style=flat" alt="Version"></a>
@@ -10,7 +10,7 @@
 MineTime is a modern, intuitive and smart calendar application.
 Connect all your calendar services and start optimizing your time. For more information about MineTime visit [minetime.ai](https://minetime.ai).
 
-![Image of MineTime](https://www.minetime.ai/static/img/screen.png)
+![Image of MineTime](https://minetime.ai/assets/img/main@2x.png)
 
 ### Linux dependencies
 MineTime store your account passwords in the local keychain. On Linux, this service is provided by `libsecret` so you may need to install it before running MineTime.
