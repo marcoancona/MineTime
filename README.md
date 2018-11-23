@@ -10,7 +10,7 @@
 MineTime is a modern, intuitive and smart calendar application.
 Connect all your calendar services and start optimizing your time. For more information about MineTime visit [minetime.ai](https://minetime.ai).
 
-#### MineTime is not open-source (yet). This repository is meant to provide a transparent discussion hub for issues, feedback and ideas.
+#### MineTime is totally free but not open-source (yet). This repository is meant to provide a transparent discussion hub for issues, feedback and ideas.
 
 ![Image of MineTime](https://minetime.ai/assets/img/main@2x.png)
 
