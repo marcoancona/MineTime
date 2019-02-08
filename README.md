@@ -23,7 +23,7 @@ Depending on your distribution, you will need to run the following command:
 - Red Hat-based: `sudo yum install libsecret-devel`
 - Arch Linux: `sudo pacman -S libsecret`
 
-Some Linux distributions, might require`apt-get install libgconf-2-4` (see https://github.com/electron/electron/issues/1518)
+Some Linux distributions, might require`libgconf-2-4` (see https://github.com/electron/electron/issues/1518). Arch Linux requires `gnome-keyring` and `seahorse` (see https://github.com/marcoancona/MineTime/issues/98).
 
 If you find a distribution that needs additional dependencies, please contact us.
 
