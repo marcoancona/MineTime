@@ -10,7 +10,7 @@
 MineTime is a modern, intuitive and smart calendar application.
 Connect all your calendar services and start optimizing your time. For more information about MineTime visit [minetime.ai](https://minetime.ai).
 
-#### MineTime is totally free but not open-source (yet). This repository is meant to provide a transparent discussion hub for issues, feedback and ideas.
+#### MineTime is free to use but not open-source (yet). This repository is meant to provide a transparent discussion hub for issues, feedback and ideas.
 
 ![Image of MineTime](https://minetime.ai/assets/img/main@2x.png)
 
@@ -23,7 +23,7 @@ Depending on your distribution, you will need to run the following command:
 - Red Hat-based: `sudo yum install libsecret-devel`
 - Arch Linux: `sudo pacman -S libsecret`
 
-Arch Linux requires `gnome-keyring` and `seahorse` (see https://github.com/marcoancona/MineTime/issues/98). Some Linux distributions might also require`libgconf-2-4` (see https://github.com/electron/electron/issues/1518).
+Arch Linux requires `gnome-keyring` (see https://github.com/marcoancona/MineTime/issues/98). Some Linux distributions might also require`libgconf-2-4` (see https://github.com/electron/electron/issues/1518).
 
 If you find a distribution that needs additional dependencies, please contact us.
 
