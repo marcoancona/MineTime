@@ -12,7 +12,7 @@
   <h1>MineTime is evolving</h1>
   <p>
     
-MineTime is no longer mainteined. For the latest features, improvements and security patches, please check out the next-generation calendar app Morgen at https://morgen.so
+MineTime is no longer maintained. For the latest features, improvements and security patches, please check out the next-generation calendar app Morgen at https://morgen.so
   </p>
 </div>
 
